@@ -24,8 +24,8 @@ No meu dia a dia profissional, atuo como braço direito da gestão em projetos d
 ### 📊 Estatísticas do GitHub
 
 
-![Status do GitHub](imagens/api.svg)
-![Linguagens mais usadas](imagens/download.svg)
+![Status do GitHub](images/api.svg)
+![Linguagens mais usadas](images/download.svg)
 ---
 
 ### 📫 Como me encontrar:
