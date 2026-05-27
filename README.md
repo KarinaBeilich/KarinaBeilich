@@ -24,7 +24,10 @@ No meu dia a dia profissional, atuo como braço direito da gestão em projetos d
 ### 📊 Estatísticas do GitHub
 
 
-[![Status do GitHub de KarinaBeilich](https://github-readme-stats.vercel.app/api?username=KarinaBeilich&show_icons=true&theme=radical)](https://github.com/KarinaBeilich)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarinaBeilich&show_icons=true&theme=radical" height="180" alt="Status do GitHub de KarinaBeilich" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaBeilich&layout=compact&theme=radical" height="180" alt="Linguagens mais usadas por KarinaBeilich" />
+</p>
 ---
 
 ### 📫 Como me encontrar:
