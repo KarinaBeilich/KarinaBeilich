@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU_EMAIL@GMAIL.COM" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
 # Olá, eu sou a Karina! 👋
 
 Atualmente atuo na área financeira (com foco em crédito e FIDCs) e sou graduanda em Ciências da Computação pela UNINOVE (Início: 2026). Sou apaixonada por encontrar padrões em dados, otimizar processos e eliminar tarefas repetitivas através da programação.
@@ -6,11 +15,20 @@ No meu dia a dia profissional, atuo como braço direito da gestão em projetos d
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+  ### 💻 Tecnologias e Habilidades
 
-*   *Linguagens:* C (Lógica, Estruturas de Repetição, Matrizes e Vetores)
-*   *Banco de Dados:* SQL (Consultas, extração e manipulação de dados)
-*   *Automação & Análise:* Excel Avançado (integrações em tempo real e relatórios dinâmicos)
+📌 **Linguagens e Back-end**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+📌 **Desenvolvimento Web & Front-end**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+📌 **Bancos de Dados & Ferramentas**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
