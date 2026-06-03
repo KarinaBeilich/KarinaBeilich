@@ -21,11 +21,10 @@ No meu dia a dia profissional, atuo como braço direito da gestão em projetos d
 * *NetAlura* Projeto desenvolvido durante a Imersão da Alura, com o objetivo de replicar a interface e a experiência de usuário da plataforma Netflix, aplicando boas práticas de desenvolvimento. https://github.com/KarinaBeilich/NetAlura
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-
-![Status do GitHub](images/api.svg)
-![Linguagens mais usadas](images/download.svg)
+![Status do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=KarinaBeilich&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KarinaBeilich&layout=compact&theme=radical)
 ---
 
 ### 📫 Como me encontrar:
