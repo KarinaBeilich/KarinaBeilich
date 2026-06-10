@@ -11,7 +11,6 @@
   </a>
 </p>
 
-
 <div align="center">
 
 ```text
@@ -40,9 +39,12 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,sqlite,mysql,vscode,python,git,github," />
+  <img src="https://skillicons.dev/icons?i=c,sqlite,mysql,vscode,python,html,css,git,github," />
 </p>
 
+<p align="center">
+  SQL Server • VBA • Excel
+</p>
 
 
 ### 🚀 Meus Projetos em Destaque
