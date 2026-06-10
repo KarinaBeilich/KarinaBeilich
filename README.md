@@ -43,9 +43,4 @@ No meu dia a dia profissional, atuo como braço direito da gestão em projetos d
 
 ![Status do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=KarinaBeilich&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KarinaBeilich&layout=compact&theme=radical&hide=tex)
----
 
-### 📫 Como me encontrar:
-
-*   *LinkedIn:* Karina Santos Gonçalves https://www.linkedin.com/in/karina-santos-gon%C3%A7alves-1bb266201
-*   *E-mail:* Karinabeilichgoncalves21@gmail.com
