@@ -39,7 +39,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,sqlite,mysql,vscode,python,html,css,java,git,github," />
+  <img src="https://skillicons.dev/icons?i=c,sqlite,mysql,vscode,python,html,css,javascript,git,github," />
 </p>
 
 <p align="center">
