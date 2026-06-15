@@ -70,7 +70,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=KarinaBeilich&theme=tokyonight"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KarinaBeilich&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
